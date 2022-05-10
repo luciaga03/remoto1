@@ -1,3 +1,10 @@
+
 Encabezado 1
+------------------
 línea 1
 línea2
+párrafo p1
+----------
+tabla 1
+tabla 2
+imagen1
