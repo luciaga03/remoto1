@@ -8,3 +8,4 @@ párrafo p1
 tabla 1
 tabla 2
 imagen1
+tablaA
